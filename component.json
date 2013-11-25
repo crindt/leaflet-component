@@ -3,26 +3,26 @@
   "repo": "crindt/leaflet-component",
   "description": "A component wrapper for leaflet.",
   "version": "0.7.0",
-  "keywords": ["leaflet"],
+  "keywords": [
+    "leaflet"
+  ],
   "dependencies": {},
   "development": {},
   "license": "MIT",
   "main": "leaflet.js",
-  "files": [
-    "leaflet.js",
-    "leaflet-src.js",
-    "leaflet.css",
+  "files": [],
+  "scripts": [
+    "leaflet.js"
+  ],
+  "styles": [
+    "leaflet.css"
+  ],
+  "images": [
     "images/layers-2x.png",
     "images/layers.png",
     "images/marker-icon-2x.png",
     "images/marker-icon.png",
     "images/marker-shadow.png"
   ],
-  "scripts": [
-    "leaflet.js",
-    "leaflet-src.js"
-  ],
-  "styles": [
-    "leaflet.css"
-  ]
+  "templates": []
 }
