@@ -11,7 +11,6 @@
 
 ## Example
 
-    ```javascript
     var L = require('leaflet')
     
     // attach the map to the #map element in the DOM
@@ -19,7 +18,6 @@
 
     // add an OpenStreetMap tile layer
     L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {}).addTo(map);
-    ```
 
 
 ## License
