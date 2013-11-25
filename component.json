@@ -1,0 +1,26 @@
+{
+  "name": "leaflet",
+  "repo": "crindt/leaflet",
+  "description": "A component wrapper for leaflet.",
+  "version": "0.7.0",
+  "keywords": ["leaflet"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "leaflet.js",
+    "leaflet.css",
+    "images/layers-2x.png",
+    "images/layers.png",
+    "marker-icon-2x.png",
+    "marker-icon.png",
+    "marker-shadow.png"
+  ],
+  "scripts": [
+    "leaflet.js"
+  ],
+  "styles": [
+    "leaflet.css"
+  ]
+}
