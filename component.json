@@ -12,7 +12,8 @@
   "main": "leaflet.js",
   "files": [],
   "scripts": [
-    "leaflet.js"
+    "leaflet.js",
+    "leaflet-src.js"
   ],
   "styles": [
     "leaflet.css"
