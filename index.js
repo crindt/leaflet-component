@@ -1,2 +1,3 @@
 module.exports = require('./leaflet.js')
-module.exports.Icon.Default.imagePath='images'
+// fix up path to installed images
+module.exports.Icon.Default.imagePath='crindt-leaflet-component/images'
