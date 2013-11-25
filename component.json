@@ -10,6 +10,7 @@
   "main": "leaflet.js",
   "files": [
     "leaflet.js",
+    "leaflet-src.js",
     "leaflet.css",
     "images/layers-2x.png",
     "images/layers.png",
@@ -18,7 +19,8 @@
     "images/marker-shadow.png"
   ],
   "scripts": [
-    "leaflet.js"
+    "leaflet.js",
+    "leaflet-src.js"
   ],
   "styles": [
     "leaflet.css"
